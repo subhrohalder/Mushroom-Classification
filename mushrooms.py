@@ -4,6 +4,7 @@ Created on Wed Apr 22 21:24:07 2020
 
 @author: subhrohalder
 """
+#dataset link: https://www.kaggle.com/uciml/mushroom-classification
 #imports
 import numpy as np
 import pandas as pd
